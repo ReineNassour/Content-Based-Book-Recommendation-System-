@@ -9,7 +9,7 @@ Key Features:
  Content-based filtering approach,
  TF-IDF vectorization for text feature extraction,
  Cosine similarity for measuring similarity between books,
- Efficient recommendation generation,
+ Efficient recommendation generation, and
  Handles large textual datasets,
 
 Methodology:
@@ -18,7 +18,7 @@ Combined important textual features:
  Title,
  Authors,
  Categories,
- Published Year, and
+ Published Year,
  Cleaned and transformed text data into a unified format.
 2. Feature Extraction
  Applied TF-IDF (Term Frequency–Inverse Document Frequency) to convert text into numerical vectors
