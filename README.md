@@ -10,7 +10,7 @@ Key Features:
  TF-IDF vectorization for text feature extraction,
  Cosine similarity for measuring similarity between books,
  Efficient recommendation generation, and
- Handles large textual datasets,
+ Handles large textual datasets.
 
 Methodology:
 1. Data Preprocessing
